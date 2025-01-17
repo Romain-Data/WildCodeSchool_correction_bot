@@ -1,0 +1,5 @@
+helium
+selenium
+bs4
+time
+google-generativeai
