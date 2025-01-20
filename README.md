@@ -124,5 +124,3 @@ Attention ! Ce projet est à but pédagogique, pour mettre en pratique les comp�
 Corriger soi-même les exercices des autres étudiants et les aider à améliorer leur code reste un excellent moyen d'apprendre.
 
 
-Traduit avec DeepL.com (version gratuite)
-
